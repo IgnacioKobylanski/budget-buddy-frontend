@@ -1,0 +1,10 @@
+Footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: var(--color-primary);
+    min-height: 10vh;
+    color: var(--main-white);
+    align-content: center;
+    align-items: center;
+}
