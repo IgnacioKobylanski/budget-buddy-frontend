@@ -1,0 +1,16 @@
+.main-content {
+  width: 100%;
+  min-height: calc(100vh - 80px - 60px); /* altura total menos header y footer */
+  padding: 2rem;
+  background-color: var(--color-neutral-light);
+}
+
+.main-content h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.main-content p {
+  font-size: 1rem;
+  line-height: 1.5;
+}

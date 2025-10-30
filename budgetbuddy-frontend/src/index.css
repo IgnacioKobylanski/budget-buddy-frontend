@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
-/*Color root*/
 :root {
   --color-primary: #1E40AF;
   --color-secondary: #10B981;
@@ -17,14 +16,9 @@
 }
 
 html, body {
+  width: 100%;
+  height: 100%;
   font-family: 'Inter', sans-serif;
   background-color: var(--main-white);
   color: var(--text-color);
-  overflow-x: hidden;
-}
-
-
-a {
-  text-decoration: none;
-  color: inherit;
 }

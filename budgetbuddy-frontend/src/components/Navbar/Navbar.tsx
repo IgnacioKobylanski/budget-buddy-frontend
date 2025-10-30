@@ -51,6 +51,7 @@ const Navbar: React.FC = () => {
     <>
       <AppBar
         component="nav"
+        position="static"
         sx={{ backgroundColor: "var(--color-primary)", fontFamily: "'Inter', sans-serif" }}
       >
         <Toolbar sx={{ display: "flex", justifyContent: "space-between" }}>
