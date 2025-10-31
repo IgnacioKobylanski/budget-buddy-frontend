@@ -1,10 +1,11 @@
 import "./Header.css"
-import Navbar from "../Navbar/Navbar.tsx"
+import logo from "../../assets/budgetbuddy-logo-2.png"
 
 const Header = () => {
     return(
 
         <header>
+      <img src={logo} alt="Budget Buddy" className="header-logo" />
       <h1>Budget Buddy</h1>
       <nav>
         <ul>
@@ -14,9 +15,6 @@ const Header = () => {
         </ul>
       </nav>
     </header>
-        /* <header className="header-main">
-           
-        </header> */
     );
 };
 
