@@ -5,6 +5,7 @@
   background-color: var(--color-neutral-light);
   height: calc(100vh - 80px);
   margin-top: 5vh;
+  color: var(--text-color);
 }
 
 
