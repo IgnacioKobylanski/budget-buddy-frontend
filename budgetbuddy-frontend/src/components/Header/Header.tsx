@@ -11,7 +11,7 @@ const Header = () => {
         <ul>
           <li><a href="#dashboard">Dashboard</a></li>
           <li><a href="#users">Users</a></li>
-          <li><a href="#categories">Categories</a></li>
+          <li><a href="#categories">History</a></li>
         </ul>
       </nav>
     </header>
