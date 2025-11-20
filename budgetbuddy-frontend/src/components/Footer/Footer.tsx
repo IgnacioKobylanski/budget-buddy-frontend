@@ -11,7 +11,6 @@ const Footer = () => {
      <FaInstagram />
      <FaYoutube />
      <FaTiktok />
-     {/* revisar si agregar o no mas estilos */}
     </footer>
   );
 };
