@@ -1,5 +1,5 @@
 const MyBudget = () =>{
     return(
-        <h1>MyBudget</h1>
+        <h1>My Budget</h1>
     );
 }
