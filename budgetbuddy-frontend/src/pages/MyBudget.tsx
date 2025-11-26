@@ -2,6 +2,7 @@ import "./MyBudget.css"
 
 const MyBudget = () =>{
     return(
-        <h1>My Budget</h1>
+        <div className="my-budget-main"><h1>My Budget</h1></div>
+        
     );
 }
