@@ -1,10 +1,11 @@
 import React from "react";
 import "./Main.css";
+import MyBudget from "../../pages/MyBudget";
 
 const Main: React.FC = () => {
   return (
     <main className="main-content">
-      <h1>Bienvenido a Budget Buddy!</h1>
+      <MyBudget />
     </main>
   );
 };

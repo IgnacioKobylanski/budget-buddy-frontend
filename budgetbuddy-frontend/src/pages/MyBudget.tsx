@@ -9,3 +9,5 @@ const MyBudget = () =>{
         
     );
 }
+
+export default MyBudget;
