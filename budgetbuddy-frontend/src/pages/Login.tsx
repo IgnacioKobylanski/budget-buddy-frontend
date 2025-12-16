@@ -1,1 +1,12 @@
 import "../pages/Login.css"
+
+const Login = () =>{
+    return(
+        <div className="login-main">
+            <h1>Login</h1>
+        </div>
+        
+    );
+}
+
+export default Login;
